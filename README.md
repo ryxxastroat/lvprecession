@@ -3,6 +3,7 @@
 Please see
 
 R. Xu, Y. Gao and L. Shao, _Precession of spheroids under Lorentz violation and observational consequences for neutron stars_, Phys. Rev. D 103, 084028 (2021)
+
 for reference.
 
 
